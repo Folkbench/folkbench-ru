@@ -32,7 +32,7 @@
 
 ## 站点栏目
 
-比较页、服务商目录、自测（指纹 / 鹈鹕 / 速度，Key 不保存）、Claude Code 接入、方法、博客、申请页——全部链到 ru.folkbench.com 的真实路径，不在 GitHub 复制站点功能。
+比较页、服务商目录、自测（鹈鹕与速度可用；指纹因缺少参考数据尚未接通；Key 不保存）、Claude Code 接入、方法、博客、申请页——全部链到 ru.folkbench.com 的真实路径，不在 GitHub 复制站点功能。
 
 ## 目录快照
 
@@ -65,4 +65,4 @@
 
 ## 许可
 
-见 [LICENSE.md](LICENSE.md)：本仓没有站点代码；文字、图片与快照 © Folkbench，暂未选定开放许可；第三方名称与商标归权利人。
+见 [LICENSE.md](LICENSE.md)：本仓没有站点代码。Folkbench 的原创文档与配图为 [CC BY 4.0](LICENSE-CC-BY-4.0.txt)，本仓自有脚本为 [MIT](LICENSE-MIT.txt)。README 中的目录快照来自站点公开接口，其中的名称与事实数据不因此被一并宣称按 CC 授权；第三方名称与商标仍归权利人，也不追溯授权第三方材料。
